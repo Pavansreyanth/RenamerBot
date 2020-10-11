@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """ Hey Welcome to Any File Renamer 
-                     Contact @psprojects for any isiies or help
+                     Contact @psprojects for any issues or help
 <b>Please send me any Telegram file and reply /rename New Name.extn</b>
 SEE /help For My Features"""
 
